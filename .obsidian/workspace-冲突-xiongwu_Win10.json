@@ -1,0 +1,310 @@
+{
+  "main": {
+    "id": "34bbd5df0dad1a72",
+    "type": "split",
+    "children": [
+      {
+        "id": "c6a0693e15a93a86",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "614828d2880ed74f",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "当前任务.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "当前任务"
+            }
+          },
+          {
+            "id": "3ee6329cccffa40c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "关于今日必须完成的目标.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "关于今日必须完成的目标"
+            }
+          },
+          {
+            "id": "573fd7cd5b12991c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "obsidian知识.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "obsidian知识"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "764cad8cbc480221",
+    "type": "split",
+    "children": [
+      {
+        "id": "ff027ba2118b9363",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2f5ba149827db364",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "5a2414b1d7e43e6a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "4c57ca66242236d9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 301.5
+  },
+  "right": {
+    "id": "0cd86f0b9eece6cd",
+    "type": "split",
+    "children": [
+      {
+        "id": "788843b6056c241c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9cefbc495bb936f7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "关于今日必须完成的目标，.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "402ce61769a8cd8a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "关于今日必须完成的目标，.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "10dae75b01fc8af3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "obsidian知识.md",
+                "followCursor": true,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "obsidian知识 的大纲"
+            }
+          },
+          {
+            "id": "8006570fd645d283",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "2b35325421ea5826",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-agent-chat-view",
+              "state": {},
+              "icon": "copilot-agent",
+              "title": "Copilot Agent"
+            }
+          },
+          {
+            "id": "abf202bdad8808e5",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "beaa4bd6af102009",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot (Quick Chat)"
+            }
+          },
+          {
+            "id": "f7a938acc9923ddb",
+            "type": "leaf",
+            "state": {
+              "type": "nutstore-sync-chatbox",
+              "state": {},
+              "icon": "nutstore-ai",
+              "title": "Chatbox"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 577.1666259765625
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "copilot:Open Copilot Agent Chat": false,
+      "realclaudian:Open Claudian": false,
+      "nutstore-sync:开始同步": false,
+      "nutstore-sync:停止同步": false,
+      "nutstore-sync:打开 Chatbox": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false
+    }
+  },
+  "active": "573fd7cd5b12991c",
+  "lastOpenFiles": [
+    "关于今日必须完成的目标.md",
+    "当前任务.md",
+    "obsidian知识.md",
+    "我的所有账号密码.md",
+    "ai制作视频.md",
+    "关于股票知识.md",
+    "关于学习.md",
+    "产业/先进封装产业.md",
+    "股市做T知识.md",
+    "关于做人.md",
+    "关于我的错误.md",
+    "营养学知识，食谱.md",
+    "剪映知识，剪辑视频.md",
+    "GITHUB知识.md",
+    "关于当网红.md",
+    "skill知识.md",
+    "睡眠，睡觉，催眠方法.md",
+    "产业/ai手机产业.md",
+    "产业/AI 产业.md",
+    "关于婚姻，找老婆，找对象，撩妹.md",
+    "关于人工智能知识，AI知识.md",
+    "产业/机器人具身智能产业.md",
+    "智能眼镜.md",
+    "英伟达.md",
+    "产业/自动驾驶产业.md",
+    "产业/生物科技产业.md",
+    "copilot/skills/openartifacts-publish/openartifacts-publish.ps1",
+    "copilot/skills/openartifacts-publish/openartifacts-publish.cmd",
+    "copilot/skills/openartifacts-publish/openartifacts-publish.sh",
+    "copilot/skills/openartifacts-publish/themes",
+    "copilot/skills/openartifacts-publish",
+    "Pasted image 20261010132206.png",
+    "链接测试",
+    "2026-10-09.md.nssyncsc",
+    "技能",
+    "未命名.base",
+    "copilot/skills/miyo-search/miyo-search.cmd",
+    "Pasted image 20261006215017.png",
+    "Pasted image 20261006202212.png",
+    "Pasted image 20261006183145.png",
+    "Pasted image 20261006151623.png",
+    "Pasted image 20261003111959.png",
+    "Pasted image 20261003104606.png",
+    "Pasted image 20261003104548.png",
+    "Pasted image 20261003104037.png",
+    "Pasted image 20261002123955.png",
+    "未命名.canvas"
+  ]
+}
